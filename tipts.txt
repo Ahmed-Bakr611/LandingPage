@@ -1,0 +1,13 @@
+-font awsome help you rsize icons without بكسلة 
+-container keeps your content alligned in center of screen
+-padding inside container helping in mobile starting text
+-scroll in any window size =>  your desin not responsive
+-inset: remove background 
+-specify text width restrict text from moving away 
+-autofill => if avaliable space % items count in grid [each item  has minmax(*px,1fr)]
+             else it will take full space for each item (mobile)
+-extra Bold font = 800
+-any reptetive design => deal with it as component (Eg : Services)
+-flex:1 => take the rest space inside flex box 
+-inline-block help you start the line with specify thing (HR)
+-  flex-basis: calc(100% - 500px); = > it takes the rest space starting after 500px (flex)
